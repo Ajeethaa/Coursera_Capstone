@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Coursera_Capstone - The Battle of Neighbourhoods
 
 We have come to the final stage of becoming a skilled data scientist. The specialisation course involved 9 components including Machine Learning in Python. The final project entails the use of tools and skills learned throughout the course to explore a geographical location of our choice. For this project, I have decided to market a property in Perth, Australia to a potential buyer. I would like to write a convincing report and present my data in the most daring way. I intend to use some machine learning tools in this project. Finally, I will present my data using Tableau.
@@ -9,3 +10,6 @@ I have begun procuring data for the project. The README will be periodically upd
 #PROJECT: "Why must anyone buy a property in Daglish, Perth, Western Australia"
 
 #BACKGROUND:
+=======
+
+>>>>>>> 5a9c2d3f6079dcb9127765e7b17e32484d4c41fc
