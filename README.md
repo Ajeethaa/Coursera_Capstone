@@ -1,12 +1,3 @@
-# Coursera_Capstone - The Battle of Neighbourhoods
+# Neighbourhood Segmentation and Clustering
 
-We have come to the final stage of becoming a skilled data scientist. The specialisation course involved 9 components including Machine Learning in Python. The final project entails the use of tools and skills learned throughout the course to explore a geographical location of our choice. For this project, I have decided to market a property in Perth, Australia to a potential buyer. I would like to write a convincing report and present my data in the most daring way. I intend to use some machine learning tools in this project. Finally, I will present my data using Tableau.
-
-Aim: My goal is to use Python, SQL, machine learning algorithms and Tableau.
-
-I have begun procuring data for the project. The README will be periodically updated using Git Bash (Version Control).
-
-#PROJECT: "Why must anyone buy a property in Daglish, Perth, Western Australia"
-
-#BACKGROUND:
-=======
+For the Toronto neighborhood data, a Wikipedia page exists that has all the information we need to explore and cluster the neighborhoods in Toronto. You will be required to scrape the Wikipedia page and wrangle the data, clean it, and then read it into a pandas dataframe so that it is in a structured format like the New York dataset.
